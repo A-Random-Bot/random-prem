@@ -1,7 +1,7 @@
 {
-  "name": "randombot",
+  "name": "arandombot",
   "version": "1.0.0",
-  "description": "A bot for stuff",
+  "description": "uwu",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
