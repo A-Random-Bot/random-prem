@@ -1,0 +1,18 @@
+{
+  "name": "arandombot",
+  "version": "1.0.0",
+  "description": "uwu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "author": "idk",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "express": "^4.16.3"
+  }
+}
